@@ -8,3 +8,4 @@ do
 done
 
 gpio mode 5 up
+echo "set pin5 as up done!"
